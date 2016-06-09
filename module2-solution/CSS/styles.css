@@ -5,6 +5,9 @@ h1 {
 	margin-bottom: 15px;
 }
 
+h2 {
+	text-align: right;
+}
 .row {
 	width: 100%;
 }
