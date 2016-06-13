@@ -1,6 +1,4 @@
 #Container1 {
-	width: 90px;
-	height: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: Helvetica;
@@ -8,8 +6,6 @@
 }
 
 #Container2 {
-	width: 90px;
-	height: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: Helvetica;
@@ -17,8 +13,6 @@
 }
 
 #Container3 {
-	width: 90px;
-	height: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	font-family: Helvetica;
@@ -70,6 +64,8 @@ h2 {
 }
 
 p {
+	width: 90%;
+	height: 150px;
 	background-color: #DEB887;
 }
 
